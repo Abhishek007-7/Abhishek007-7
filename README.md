@@ -1,3 +1,4 @@
+![Alt Text](https://github.com/Abhishek007-7/Abhishek007-7/blob/main/user.gif)
 
 # 👋 Hi, I’m Abhishek Madhu Vidya  
 **Electronics and Computer Engineering Graduate**  
