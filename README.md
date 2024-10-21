@@ -35,15 +35,11 @@ A personal portfolio showcasing my projects, technical skills, and experiences.
 
 ---
 
-### 3. **Customize the Page with Badges, Stats, and More:**
-You can add badges, GitHub stats, and dynamic elements for better visibility:
+### GitHub Stats:
 
-- Add a **GitHub stats** badge:
-  ```md
-  ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek007-7&show_icons=true&theme=radical)
-  ```
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek007-7&show_icons=true&theme=radical)
 
-- Add **Top Languages**:
-  ```md
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek007-7&layout=compact&theme=radical)
-  ```
+### Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek007-7&layout=compact&theme=radical)
+
