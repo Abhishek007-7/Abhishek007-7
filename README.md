@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Abhishek Madhu Vidya  
 **Electronics and Computer Engineering Graduate**  
-**Web Development | Cloud Computing | Networking Enthusiast**
+**Web Development | Networking Enthusiast | Cloud Computing**
 
 I am an Electronics and Computer Engineering graduate exploring and working on projects in **Web Development**, **Cloud Computing**, and **Networking**. My passion lies in solving real-world problems by developing efficient and scalable solutions.
 
